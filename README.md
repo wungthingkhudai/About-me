@@ -1,7 +1,7 @@
 # About-me
 # Personal Profile Website
 
-A stylish and responsive personal profile website to showcase your skills, portfolio, and contact information.
+A stylish and responsive personal profile website to showcase my skills, portfolio, and contact information.
 
 ## Features
 - About Me Section
